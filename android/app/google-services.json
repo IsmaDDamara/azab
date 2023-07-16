@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "658781083372",
+    "firebase_url": "https://azabdetector-default-rtdb.firebaseio.com",
+    "project_id": "azabdetector",
+    "storage_bucket": "azabdetector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658781083372:android:8e0d5f856b5d0acf0a37c9",
+        "android_client_info": {
+          "package_name": "com.example.azab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658781083372-v3tq00d2geuue462pmn27ump1aa5n3sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRlAA9FWYv33ByxocrvAdhNvTUmIW2_4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658781083372-v3tq00d2geuue462pmn27ump1aa5n3sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
